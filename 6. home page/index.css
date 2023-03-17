@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-2-child,
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 907px;
+  height: 1024px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  left: 907px;
+  background-color: var(--color-darkolivegreen);
+  width: 533px;
+}
+.desktop-2-inner {
+  top: 71px;
+  left: 100px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  width: 1240px;
+  height: 883px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 78px;
+  left: 107px;
+  width: 118px;
+  height: 118px;
+  object-fit: cover;
+}
+.desktop-2-child1,
+.desktop-2-child2,
+.rectangle-div {
+  position: absolute;
+  top: 96px;
+  left: 1099px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkolivegreen);
+  border: 1px solid var(--color-seagreen);
+  box-sizing: border-box;
+  width: 210px;
+  height: 51px;
+}
+.desktop-2-child1,
+.desktop-2-child2 {
+  top: 316px;
+  left: 113px;
+  width: 272px;
+  height: 57px;
+}
+.desktop-2-child2 {
+  top: 776px;
+  width: 252px;
+}
+.future-insurence,
+.get-started {
+  position: absolute;
+  top: 330px;
+  left: 142px;
+  color: var(--color-white);
+}
+.get-started {
+  top: 790px;
+  left: 169px;
+}
+.about-us,
+.contact,
+.home {
+  position: absolute;
+  top: 114px;
+  left: 385px;
+}
+.about-us,
+.contact {
+  left: 485px;
+}
+.contact {
+  left: 907px;
+  display: inline-block;
+  width: 104px;
+  height: 29px;
+}
+.service,
+.sign-in,
+.testimonal {
+  position: absolute;
+  top: 114px;
+  left: 746px;
+}
+.service,
+.sign-in {
+  left: 625px;
+}
+.sign-in {
+  top: 105px;
+  left: 1174px;
+  color: var(--color-white);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 233px;
+  left: 689px;
+  width: 600px;
+  height: 600px;
+}
+.desktop-2-child3 {
+  position: absolute;
+  top: 258px;
+  left: 714px;
+  width: 550px;
+  height: 550px;
+}
+.desktop-2-child4 {
+  position: absolute;
+  top: 283px;
+  left: 739px;
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+.kids-happyness {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.for-family-life {
+  margin: 0;
+}
+.kids-happyness-for-container {
+  position: absolute;
+  top: 408px;
+  left: 112px;
+  font-size: var(--font-size-5xl);
+}
+.a-child-is-container {
+  position: absolute;
+  top: 533px;
+  left: 107px;
+  font-weight: 500;
+  color: #544d4d;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-seagreen);
+  font-family: var(--font-inter);
+}

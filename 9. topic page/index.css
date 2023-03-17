@@ -1,0 +1,197 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 4436px;
+  height: 2623px;
+  overflow: hidden;
+}
+.desktop-2-child,
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 50px;
+  left: 47px;
+  width: 75px;
+  height: 75px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  left: 163px;
+}
+.desktop-2-inner {
+  left: 279px;
+}
+.rectangle-div,
+.rectangle-icon {
+  position: absolute;
+  top: 174px;
+  height: 230px;
+}
+.rectangle-div {
+  left: 0;
+  background-color: var(--color-black);
+  width: 4436px;
+}
+.rectangle-icon {
+  left: 59px;
+  width: 283px;
+  object-fit: cover;
+}
+.desktop-2-child1,
+.desktop-2-child2 {
+  position: absolute;
+  top: 239px;
+  height: 100px;
+}
+.desktop-2-child1 {
+  left: 3041px;
+  background-color: var(--color-white);
+  width: 840px;
+}
+.desktop-2-child2 {
+  left: 3914px;
+  width: 131px;
+  object-fit: cover;
+}
+.desktop-2-child3 {
+  position: absolute;
+  top: 404px;
+  left: 0;
+  background-color: var(--color-mediumblue-100);
+  width: 4436px;
+  height: 855px;
+}
+.educationtraining-and-skills {
+  position: absolute;
+  top: 501px;
+  left: 59px;
+  font-size: var(--font-size-11xl);
+}
+.schools-and-academics {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.and-other-skills {
+  margin: 0;
+}
+.schools-and-academics-container,
+.sign-up-for {
+  position: absolute;
+  top: 735px;
+  left: 59px;
+  font-size: var(--font-size-9xl);
+}
+.sign-up-for {
+  top: 1338px;
+  left: 122px;
+  color: var(--color-mediumblue-100);
+}
+.desktop-2-child4 {
+  position: absolute;
+  top: 1346px;
+  left: 18px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.line-div {
+  position: absolute;
+  top: 1433px;
+  left: 137px;
+  border-top: 4px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1460px;
+  height: 4px;
+}
+.desktop-2-child5 {
+  position: absolute;
+  top: 1463px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 4436px;
+  height: 1160px;
+}
+.desktop-2-child6,
+.desktop-2-child7,
+.desktop-2-child8 {
+  position: absolute;
+  top: 1766px;
+  left: 139px;
+  background-color: var(--color-mediumblue-100);
+  width: 1114px;
+  height: 729px;
+}
+.desktop-2-child7,
+.desktop-2-child8 {
+  left: 3209px;
+}
+.desktop-2-child8 {
+  left: 1674px;
+}
+.services {
+  position: absolute;
+  top: 1543px;
+  left: 163px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-black);
+}
+.find-and-apprenticeship,
+.student-finance,
+.student-finance-login {
+  position: absolute;
+  top: 1791px;
+  left: 163px;
+  font-weight: 500;
+}
+.find-and-apprenticeship,
+.student-finance {
+  left: 1724px;
+}
+.find-and-apprenticeship {
+  left: 3259px;
+}
+.student-finance-student-lones-container,
+.your-student-finance-container {
+  position: absolute;
+  top: 1939px;
+  left: 163px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.student-finance-student-lones-container {
+  top: 1924px;
+  left: 1687px;
+  display: inline-block;
+  width: 980px;
+}
+.register-your-profilesearch-container {
+  position: absolute;
+  top: 1939px;
+  left: 3227px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.search {
+  position: absolute;
+  top: 250px;
+  left: 3102px;
+  font-weight: 500;
+  color: #5a5353;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2623px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

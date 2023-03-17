@@ -1,0 +1,209 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.ipad-pro-11-1-child {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 834px;
+  height: 102px;
+}
+.categories {
+  position: absolute;
+  top: 97px;
+  left: 266px;
+  font-size: var(--font-size-lg);
+}
+.ipad-pro-11-1-inner,
+.ipad-pro-11-1-item {
+  position: absolute;
+  top: 97px;
+  left: 728px;
+  width: 63px;
+  height: 58px;
+  object-fit: cover;
+}
+.ipad-pro-11-1-inner {
+  left: 34px;
+  width: 50px;
+  height: 61px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 177px;
+  left: 0;
+  background-color: var(--color-powderblue);
+  width: 834px;
+  height: 1189px;
+}
+.frame-div {
+  position: absolute;
+  top: 389px;
+  left: 771px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.select-upto-3 {
+  position: absolute;
+  top: 196px;
+  left: 19px;
+  font-size: var(--font-size-lg);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 305px;
+  left: 63px;
+  border-radius: var(--br-md);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.ipad-pro-11-1-child1,
+.ipad-pro-11-1-child2,
+.ipad-pro-11-1-child3,
+.ipad-pro-11-1-child4,
+.ipad-pro-11-1-child5 {
+  position: absolute;
+  top: 305px;
+  left: 460px;
+  border-radius: var(--br-md);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.ipad-pro-11-1-child2,
+.ipad-pro-11-1-child3,
+.ipad-pro-11-1-child4,
+.ipad-pro-11-1-child5 {
+  top: 977px;
+}
+.ipad-pro-11-1-child3,
+.ipad-pro-11-1-child4,
+.ipad-pro-11-1-child5 {
+  left: 63px;
+}
+.ipad-pro-11-1-child4,
+.ipad-pro-11-1-child5 {
+  top: 641px;
+  left: 460px;
+}
+.ipad-pro-11-1-child5 {
+  left: 63px;
+}
+.skip {
+  position: absolute;
+  top: 211px;
+  left: 710px;
+  font-weight: 500;
+  color: #f31f1f;
+}
+.design,
+.gym,
+.music,
+.news,
+.technology,
+.yoga {
+  position: absolute;
+  top: 555px;
+  left: 128px;
+  font-weight: 500;
+}
+.design,
+.gym,
+.news,
+.technology,
+.yoga {
+  left: 539px;
+}
+.design,
+.gym,
+.technology,
+.yoga {
+  top: 1227px;
+}
+.design,
+.technology,
+.yoga {
+  left: 99px;
+}
+.design,
+.yoga {
+  top: 891px;
+  left: 540px;
+}
+.design {
+  left: 128px;
+}
+.ipad-pro-11-1-child6 {
+  position: absolute;
+  top: 1286px;
+  left: 113px;
+  border-radius: var(--br-md);
+  background-color: var(--color-powderblue);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 150px;
+  height: 61px;
+}
+.back {
+  position: absolute;
+  top: 1298px;
+  left: 143px;
+  font-weight: 500;
+}
+.ipad-pro-11-1-child7 {
+  position: absolute;
+  top: 1286px;
+  left: 496px;
+  border-radius: var(--br-md);
+  background-color: #f41e1e;
+  width: 182px;
+  height: 63px;
+}
+.next- {
+  position: absolute;
+  top: 1298px;
+  left: 538px;
+  font-weight: 500;
+}
+.ipad-pro-11-1-child8 {
+  position: absolute;
+  top: 641px;
+  left: 644px;
+  width: 66px;
+  height: 63px;
+  object-fit: cover;
+}
+.more {
+  position: absolute;
+  top: 203px;
+  left: 351px;
+  font-weight: 500;
+  color: #877979;
+}
+.ipad-pro-11-1,
+.ipad-pro-11-2 {
+  background-color: var(--color-white);
+  height: 1366px;
+  overflow: hidden;
+}
+.ipad-pro-11-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 834px;
+}
+.ipad-pro-11-2 {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

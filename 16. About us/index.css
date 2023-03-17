@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1,
+.desktop-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1024px;
+}
+.desktop-1 {
+  background-color: var(--color-white);
+  width: 1440px;
+  overflow: hidden;
+}
+.desktop-2-child {
+  background-color: #c2f9b4;
+  width: 661px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 0;
+  left: 661px;
+  background-color: var(--color-white);
+  width: 779px;
+  height: 1024px;
+}
+.desktop-2-inner {
+  top: 76px;
+  left: 133px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1173px;
+  height: 872px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 112px;
+  left: 176px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.about,
+.faq {
+  position: absolute;
+  top: 141px;
+  left: 1201px;
+}
+.about {
+  left: 812px;
+}
+.contact,
+.rectangle-icon,
+.sign-in {
+  position: absolute;
+  top: 141px;
+  left: 1001px;
+}
+.rectangle-icon,
+.sign-in {
+  left: 614px;
+}
+.rectangle-icon {
+  top: 377px;
+  left: 812px;
+  width: 445px;
+  height: 389px;
+  object-fit: cover;
+}
+.us {
+  margin: 0;
+}
+.about-us {
+  position: absolute;
+  top: 337px;
+  left: 214px;
+  font-size: var(--font-size-7xl);
+}
+.lorem-lpsum-dolor {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.lorem-lpsum-dolor-container {
+  position: absolute;
+  top: 549px;
+  left: 214px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.rectangle-div {
+  position: absolute;
+  top: 704px;
+  left: 214px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-cornflowerblue-100);
+  width: 212px;
+  height: 62px;
+}
+.read-more {
+  position: absolute;
+  top: 720px;
+  left: 258px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.desktop-2-child1,
+.desktop-2-child2,
+.desktop-2-child3 {
+  position: absolute;
+  top: 902px;
+  left: 156px;
+  width: 25px;
+  height: 25px;
+}
+.desktop-2-child2,
+.desktop-2-child3 {
+  left: 202px;
+}
+.desktop-2-child3 {
+  left: 248px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-cornflowerblue-100);
+  font-family: var(--font-inter);
+}

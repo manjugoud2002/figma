@@ -1,0 +1,19 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-sm: 11px;
+  --font-size-base: 32px;
+  --font-size-lg: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-powderblue: #c7e4e3;
+  --color-darkslategray: #333;
+
+  /* border radiuses */
+  --br-md: 20px;
+}

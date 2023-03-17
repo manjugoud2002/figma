@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1 {
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-1,
+.desktop-2-child,
+.desktop-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.desktop-2-child {
+  background-color: var(--color-white);
+  height: 1024px;
+}
+.desktop-2-item {
+  background-color: #a79c9c;
+  height: 211px;
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 106px;
+  left: 508px;
+  background-color: var(--color-white);
+  width: 384px;
+  height: 43px;
+}
+.search {
+  position: absolute;
+  top: 113px;
+  left: 533px;
+  color: #857f7f;
+}
+.rectangle-div {
+  position: absolute;
+  top: 106px;
+  left: 902px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 140px;
+  height: 43px;
+}
+.search1,
+.video {
+  position: absolute;
+  top: 113px;
+  left: 919px;
+}
+.video {
+  top: 106px;
+  left: 406px;
+  font-size: var(--font-size-xl);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 38px;
+  left: 21px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.desktop-2-child1 {
+  position: absolute;
+  top: 211px;
+  left: 236px;
+  background-color: var(--color-whitesmoke-100);
+  width: 121px;
+  height: 37px;
+}
+.desktop-2-child2,
+.desktop-2-child3,
+.desktop-2-child4,
+.desktop-2-child5 {
+  position: absolute;
+  top: 211px;
+  left: 357px;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff),
+    linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+  width: 121px;
+  height: 37px;
+}
+.desktop-2-child3,
+.desktop-2-child4,
+.desktop-2-child5 {
+  left: 740px;
+  width: 202px;
+}
+.desktop-2-child4,
+.desktop-2-child5 {
+  left: 478px;
+  width: 121px;
+}
+.desktop-2-child5 {
+  left: 599px;
+  width: 127px;
+}
+.about,
+.blog,
+.contact-us,
+.home,
+.videos {
+  position: absolute;
+  top: 211px;
+  left: 262px;
+  font-weight: 500;
+}
+.about,
+.blog,
+.contact-us,
+.videos {
+  left: 384px;
+}
+.blog,
+.contact-us,
+.videos {
+  top: 215px;
+  left: 766px;
+}
+.blog,
+.videos {
+  top: 211px;
+  left: 637px;
+}
+.videos {
+  left: 503px;
+  display: inline-block;
+  width: 90px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 248px;
+  left: 0;
+  width: 1440px;
+  height: 410px;
+  object-fit: cover;
+}
+.desktop-2-child6,
+.desktop-2-child7 {
+  position: absolute;
+  top: 378px;
+  left: 651px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.desktop-2-child7 {
+  top: 658px;
+  left: 0;
+  width: 1440px;
+  height: 366px;
+}
+.desktop-2-child10,
+.desktop-2-child11,
+.desktop-2-child8,
+.desktop-2-child9 {
+  position: absolute;
+  top: 558px;
+  left: 52px;
+  width: 210px;
+  height: 199px;
+  object-fit: cover;
+}
+.desktop-2-child10,
+.desktop-2-child11,
+.desktop-2-child9 {
+  left: 1178px;
+}
+.desktop-2-child10,
+.desktop-2-child11 {
+  top: 786px;
+  left: 599px;
+}
+.desktop-2-child11 {
+  top: 662px;
+  left: 860px;
+}
+.accessories,
+.mens-wear,
+.mobile-store,
+.womens-wear {
+  position: absolute;
+  top: 757px;
+  left: 71px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 172px;
+  height: 52px;
+}
+.accessories,
+.mobile-store,
+.womens-wear {
+  top: 762px;
+  left: 1178px;
+  width: 243px;
+}
+.accessories,
+.mobile-store {
+  top: 861px;
+  left: 876px;
+}
+.mobile-store {
+  top: 985px;
+  left: 615px;
+  width: 274px;
+}
+.desktop-2-child12 {
+  position: absolute;
+  top: 657px;
+  left: 338px;
+  width: 210px;
+  height: 199px;
+  object-fit: cover;
+}
+.kids-wear {
+  position: absolute;
+  top: 853px;
+  left: 365px;
+  font-size: var(--font-size-xl);
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
