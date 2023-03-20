@@ -1,0 +1,235 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1,
+.desktop-2-child {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.desktop-1 {
+  top: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-2-child {
+  top: 113px;
+  height: 384px;
+  object-fit: cover;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 317px;
+  left: 134px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 1192px;
+  height: 82px;
+}
+.how-can-we {
+  position: absolute;
+  top: 247px;
+  left: 481px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 328px;
+  left: 147px;
+  width: 52px;
+  height: 60px;
+  object-fit: cover;
+}
+.see-all-results {
+  position: absolute;
+  top: 344px;
+  left: 1151px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: #1f25b1;
+}
+.desktop-2-child1,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-sm);
+}
+.rectangle-div {
+  top: 148px;
+  left: 1151px;
+  background-color: var(--color-navy);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 228px;
+  height: 72px;
+}
+.desktop-2-child1 {
+  top: 11px;
+  left: 1171px;
+  background-color: #3b9739;
+  width: 238px;
+  height: 51px;
+}
+.service-status {
+  position: absolute;
+  top: 170px;
+  left: 1182px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.company,
+.customers,
+.product,
+.resources,
+.solutions {
+  position: absolute;
+  top: 20px;
+  left: 322px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.company,
+.customers,
+.resources,
+.solutions {
+  left: 466px;
+}
+.company,
+.customers,
+.resources {
+  left: 623px;
+}
+.company,
+.customers {
+  top: 22px;
+  left: 951px;
+}
+.customers {
+  left: 780px;
+  display: inline-block;
+  width: 135px;
+  height: 24px;
+}
+.start-free-trail {
+  position: absolute;
+  top: 20px;
+  left: 1206px;
+  color: var(--color-white);
+}
+.sign-in {
+  position: absolute;
+  top: 72px;
+  left: 1326px;
+}
+.desktop-2-child2,
+.desktop-2-child3 {
+  position: absolute;
+  top: 497px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 720px;
+  height: 527px;
+}
+.desktop-2-child3 {
+  top: 498px;
+  left: 720px;
+}
+.desktop-2-child4,
+.ellipse-icon {
+  position: absolute;
+  top: 512px;
+  left: 222px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.desktop-2-child4 {
+  left: 1006px;
+}
+.getting-started {
+  position: absolute;
+  top: 712px;
+  left: 229px;
+}
+.trouble-shooting {
+  position: absolute;
+  top: 688px;
+  left: 1012px;
+}
+.add-dynamics-helps {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.infrastructure-to-business {
+  margin: 0;
+}
+.add-dynamics-helps-container,
+.find-solutions-to-container {
+  position: absolute;
+  top: 765px;
+  left: 17px;
+  color: var(--color-dimgray-200);
+  white-space: pre-wrap;
+}
+.find-solutions-to-container {
+  top: 762px;
+  left: 792px;
+}
+.desktop-2-child5 {
+  position: absolute;
+  top: 908px;
+  left: 214px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-navy);
+  width: 252px;
+  height: 80px;
+}
+.get-started {
+  position: absolute;
+  top: 933px;
+  left: 270px;
+  color: var(--color-white);
+}
+.desktop-2-child6 {
+  position: absolute;
+  top: 908px;
+  left: 990px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-navy);
+  width: 252px;
+  height: 80px;
+}
+.find-solutions {
+  position: absolute;
+  top: 933px;
+  left: 1030px;
+  color: var(--color-white);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  width: 114px;
+  height: 105px;
+  object-fit: cover;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
