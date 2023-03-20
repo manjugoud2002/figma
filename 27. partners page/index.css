@@ -1,0 +1,242 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 216.5px;
+  left: 165.5px;
+  border-top: 5px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1108.01px;
+  height: 5px;
+}
+.desktop-1-item {
+  top: 399.5px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 140px;
+  left: 168px;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.how-it-works {
+  position: absolute;
+  left: 532px;
+  color: var(--color-black);
+}
+.about,
+.how-it-works,
+.partners {
+  top: 163px;
+  font-size: var(--font-size-xs);
+}
+.partners {
+  position: absolute;
+  left: 950px;
+  color: var(--color-limegreen-200);
+}
+.about {
+  left: 841px;
+  color: var(--color-black);
+}
+.about,
+.blog,
+.line-div {
+  position: absolute;
+}
+.blog {
+  top: 163px;
+  left: 728px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+}
+.line-div {
+  top: 194.5px;
+  left: 948.5px;
+  border-top: 3px solid var(--color-limegreen-200);
+  box-sizing: border-box;
+  width: 88px;
+  height: 3px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 161px;
+  left: 1083px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-limegreen-200);
+  width: 170px;
+  height: 42px;
+}
+.sign-up {
+  position: absolute;
+  top: 168px;
+  left: 1131px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 253px;
+  left: 993px;
+  width: 191px;
+  height: 134px;
+  object-fit: cover;
+}
+.do-you-want,
+.our-partners {
+  position: absolute;
+  top: 237px;
+  left: 238px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.do-you-want {
+  top: 411px;
+  left: 296px;
+  font-size: var(--font-size-4xl);
+}
+.we-have-strong {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.retailers-and-fmcg {
+  margin: 0;
+}
+.greek-and-international-container,
+.we-have-strong-container {
+  position: absolute;
+  top: 302px;
+  left: 239px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-100);
+}
+.greek-and-international-container {
+  top: 468px;
+  left: 216px;
+}
+.desktop-1-child1,
+.desktop-1-child2 {
+  position: absolute;
+  top: 544px;
+  left: 275px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-1-child2 {
+  top: 757px;
+  left: 1039px;
+}
+.desktop-1-child3,
+.desktop-1-child4,
+.desktop-1-child5,
+.desktop-1-child6 {
+  position: absolute;
+  top: 757px;
+  left: 657px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-1-child4,
+.desktop-1-child5,
+.desktop-1-child6 {
+  left: 275px;
+}
+.desktop-1-child5,
+.desktop-1-child6 {
+  top: 544px;
+  left: 657px;
+}
+.desktop-1-child6 {
+  left: 1039px;
+}
+.increase-sales {
+  position: absolute;
+  top: 653px;
+  left: 264px;
+  font-weight: 500;
+}
+.analytics-and-easy-container,
+.member-of-a-container {
+  position: absolute;
+  top: 864px;
+  left: 984px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.member-of-a-container {
+  left: 635px;
+  display: inline-block;
+  width: 146px;
+  height: 44px;
+}
+.no-cost-for-container {
+  position: absolute;
+  top: 864px;
+  left: 274px;
+  font-weight: 500;
+}
+.people-targeting,
+.targeting-communication {
+  position: absolute;
+  top: 653px;
+  left: 983px;
+  font-weight: 500;
+}
+.people-targeting {
+  left: 634px;
+}
+.desktop-1,
+.desktop-1-child7 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.desktop-1-child7 {
+  top: 940.5px;
+  height: 83.5px;
+  object-fit: cover;
+}
+.desktop-1 {
+  top: 0;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-2-child,
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 164px;
+  height: 1024px;
+  object-fit: cover;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  left: 164px;
+  width: 1112px;
+  height: 140px;
+}
+.desktop-2-inner {
+  left: 1276px;
+  width: 164px;
+  height: 1024px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

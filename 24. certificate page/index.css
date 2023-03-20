@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1432px;
+  height: 1024px;
+  object-fit: cover;
+}
+.certificate {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.of-compelition {
+  margin: 0;
+}
+.certificate-of-compelition-container {
+  position: absolute;
+  top: 39px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 500;
+  color: #fac43b;
+  width: 563px;
+  height: 154px;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 39px;
+  left: 1187px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.this-certificate-is-container {
+  position: absolute;
+  top: 265px;
+  left: 397px;
+  font-size: var(--font-size-4xl);
+  font-weight: 500;
+}
+.heshe-has-sucessfully-container {
+  top: 566px;
+  left: 380px;
+}
+.date,
+.heshe-has-sucessfully-container,
+.manjunatha-goud-appanala {
+  position: absolute;
+  font-weight: 500;
+}
+.manjunatha-goud-appanala {
+  top: 450px;
+  left: 366px;
+  font-size: var(--font-size-5xl);
+  color: #a6c0ba;
+}
+.date {
+  top: 818px;
+  left: 626px;
+  color: var(--color-white);
+}
+.desktop-1-item {
+  position: absolute;
+  top: 730.63px;
+  left: 1015.63px;
+  width: 150.04px;
+  height: 150.04px;
+  object-fit: cover;
+}
+.signature {
+  position: absolute;
+  top: 818px;
+  left: 928px;
+  font-weight: 500;
+  color: #1ef927;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-aquamarine);
+  font-family: var(--font-inter);
+}

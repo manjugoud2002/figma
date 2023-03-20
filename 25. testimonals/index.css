@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 255px;
+  left: 0;
+  width: 1440px;
+  height: 750px;
+  object-fit: cover;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 368px;
+  left: 180px;
+  width: 120px;
+  height: 120px;
+}
+.desktop-2-inner {
+  top: 375px;
+  left: 187px;
+  width: 106px;
+  height: 106px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 368px;
+  left: 659px;
+  width: 120px;
+  height: 120px;
+}
+.desktop-2-child1 {
+  position: absolute;
+  top: 375px;
+  left: 667px;
+  width: 106px;
+  height: 106px;
+  object-fit: cover;
+}
+.desktop-2-child2 {
+  position: absolute;
+  top: 368px;
+  left: 1140px;
+  width: 120px;
+  height: 120px;
+}
+.desktop-2-child3 {
+  position: absolute;
+  top: 375px;
+  left: 1147px;
+  width: 106px;
+  height: 106px;
+  object-fit: cover;
+}
+.when-it-comes {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.our-new-business {
+  margin: 0;
+}
+.when-it-comes-container {
+  position: absolute;
+  top: 558px;
+  left: 38px;
+  font-weight: 500;
+}
+.when-it-comes-container1,
+.when-it-comes-container2 {
+  position: absolute;
+  top: 558px;
+  left: 998px;
+  font-weight: 500;
+}
+.when-it-comes-container2 {
+  left: 517px;
+}
+.jerry,
+.micky,
+.tommy {
+  position: absolute;
+  top: 770px;
+  left: 180px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.jerry,
+.micky {
+  top: 772px;
+  left: 660px;
+}
+.micky {
+  top: 764px;
+  left: 1165px;
+}
+.cheif-accountant,
+.sales-manager,
+.secretary {
+  position: absolute;
+  top: 815px;
+  left: 139px;
+  font-weight: 500;
+}
+.sales-manager,
+.secretary {
+  left: 644px;
+}
+.sales-manager {
+  left: 1129px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 274px;
+  object-fit: cover;
+}
+.what-our-customers {
+  position: absolute;
+  top: 54px;
+  left: 474px;
+  font-size: var(--font-size-4xl);
+  font-weight: 800;
+}
+.we-place-huge-container {
+  position: absolute;
+  top: 159px;
+  left: 278px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

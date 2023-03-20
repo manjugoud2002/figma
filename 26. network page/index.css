@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.desktop-2-child {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 3450px;
+  height: 2422px;
+  object-fit: cover;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 268px;
+  left: 360px;
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-rosybrown-100);
+  box-sizing: border-box;
+  width: 2872px;
+  height: 1826px;
+}
+.desktop-2-inner,
+.rectangle-icon {
+  position: absolute;
+  top: 141px;
+  left: 229px;
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 976px;
+  left: 1779px;
+  width: 1431px;
+  height: 1118px;
+}
+.sign-in {
+  position: absolute;
+  top: 339px;
+  left: 1625px;
+}
+.about {
+  left: 2071px;
+}
+.about,
+.contact,
+.faq {
+  position: absolute;
+  top: 339px;
+}
+.faq {
+  left: 2978px;
+  color: var(--color-gray-700);
+}
+.contact {
+  left: 2495px;
+}
+.community,
+.network {
+  position: absolute;
+  left: 464px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-400);
+  -webkit-text-stroke: 2px #000;
+}
+.community {
+  top: 732px;
+  display: inline-block;
+  width: 690px;
+  height: 149px;
+}
+.network {
+  top: 898px;
+}
+.lorem-ipsum-dolor {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.consecteture-adipiscingelit {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 1211px;
+  left: 461px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-dimgray-100);
+}
+.rectangle-div {
+  position: absolute;
+  top: 1602px;
+  left: 579px;
+  background-color: var(--color-dimgray-500);
+  width: 766px;
+  height: 184px;
+}
+.read-more {
+  position: absolute;
+  top: 1636px;
+  left: 689px;
+  font-size: var(--font-size-10xl);
+}
+.desktop-2-child1,
+.desktop-2-child2,
+.ellipse-icon {
+  position: absolute;
+  top: 1944px;
+  left: 543px;
+  width: 75px;
+  height: 75px;
+}
+.desktop-2-child1,
+.desktop-2-child2 {
+  left: 720px;
+}
+.desktop-2-child2 {
+  left: 897px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2422px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--font-inter);
+}
